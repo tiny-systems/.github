@@ -68,5 +68,5 @@ helm install my-module tinysystems/tinysystems-operator \
 
 ### Links
 
-- [Documentation](https://tinysystems.io/docs)
+- [Documentation](https://docs.tinysystems.io/)
 - [Platform](https://tinysystems.io)
