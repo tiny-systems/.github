@@ -1,4 +1,4 @@
-# TinySystems
+# Tiny Systems
 
 **Kubernetes-native workflow engine for building data pipelines, API servers, and automations.**
 
